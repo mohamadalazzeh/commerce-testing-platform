@@ -2,6 +2,10 @@
 
 **Real-World API & Database Testing Project**
 
+**GitHub Repository:** [`mohamadalazzeh/commerce-testing-platform`](https://github.com/mohamadalazzeh/commerce-testing-platform)
+
+**Project/Product Name:** QA Commerce Lab (unchanged). The GitHub repository name is not the application/service identifier.
+
 QA Commerce Lab is a hands-on quality engineering project built around an e-commerce backend. The project focuses on requirement analysis, API testing, database validation, defect reporting, regression testing, and later test automation and CI/CD.
 
 ## Project Scope
@@ -49,7 +53,7 @@ API execution in Postman starts after the Sprint 0 analysis activities are compl
 ## Repository Structure
 
 ```text
-qa-commerce-lab/
+commerce-testing-platform/
 ├── docs/
 │   ├── project-overview/
 │   ├── requirements/

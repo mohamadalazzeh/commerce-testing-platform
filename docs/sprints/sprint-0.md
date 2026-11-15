@@ -1,6 +1,6 @@
 # Sprint 0 — Discovery & Test Analysis
 
-> **Tracking note (13 Nov 2026):** This file records the original Sprint 0 plan and currently still shows **In Progress**. Actual Authentication implementation and Registration API/DB/Gmail testing progressed beyond the original Sprint 0 out-of-scope boundary. Do not silently infer that those activities were done inside this sprint. See [QCL-011](https://github.com/mohamadalazzeh/qa-commerce-lab/issues/5) to reconcile tracking and determine a formal sprint transition.
+> **Tracking note (13 Nov 2026):** This file records the original Sprint 0 plan and currently still shows **In Progress**. Actual Authentication implementation and Registration API/DB/Gmail testing progressed beyond the original Sprint 0 out-of-scope boundary. Do not silently infer that those activities were done inside this sprint. See [QCL-011](https://github.com/mohamadalazzeh/commerce-testing-platform/issues/5) to reconcile tracking and determine a formal sprint transition.
 
 ## Sprint Goal
 
@@ -41,9 +41,9 @@ These activities begin in later sprints after the analysis baseline is completed
 | QCL-006 | Prepare Requirement Questions Log | To Do |
 | QCL-007 | Review OpenAPI Contract | To Do |
 | QCL-008 | Prepare Initial Test Conditions | To Do |
-| [QCL-009](https://github.com/mohamadalazzeh/qa-commerce-lab/issues/3) | Review and baseline e-commerce BRD | In Progress — Draft ready for review |
-| [QCL-010](https://github.com/mohamadalazzeh/qa-commerce-lab/issues/4) | Confirm future website vs API-only V1 scope | To Do |
-| [QCL-011](https://github.com/mohamadalazzeh/qa-commerce-lab/issues/5) | Reconcile Sprint 0 tracker with actual Authentication progress | To Do |
+| [QCL-009](https://github.com/mohamadalazzeh/commerce-testing-platform/issues/3) | Review and baseline e-commerce BRD | In Progress — Draft ready for review |
+| [QCL-010](https://github.com/mohamadalazzeh/commerce-testing-platform/issues/4) | Confirm future website vs API-only V1 scope | To Do |
+| [QCL-011](https://github.com/mohamadalazzeh/commerce-testing-platform/issues/5) | Reconcile Sprint 0 tracker with actual Authentication progress | To Do |
 
 ## Current QA Assignment
 

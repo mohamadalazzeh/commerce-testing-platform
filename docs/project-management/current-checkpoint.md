@@ -2,6 +2,10 @@
 
 ## How to Resume
 
+**GitHub repository:** [`mohamadalazzeh/commerce-testing-platform`](https://github.com/mohamadalazzeh/commerce-testing-platform). The business/project name **QA Commerce Lab** remains unchanged.
+
+**Local workspace note:** Renaming the GitHub repository does not rename existing local folders, Docker Compose projects, package names, or service identifiers. Previously documented local path `/home/mohamad/projects/qa-commerce-lab` is a historical workstation path, **not the repository slug**. Check the actual local directory and `git remote -v` before updating a remote URL; do not move, reset or pull a dirty working tree just because the remote name changed.
+
 Use this file together with:
 
 ```text
@@ -11,7 +15,7 @@ docs/architecture/backend-architecture-and-development-standards-v1.0.md
 
 Suggested message in a new chat:
 
-> Continue QA Commerce Lab from `mohamadalazzeh/qa-commerce-lab`. Authentication API Contract v1.0 and Authentication Data Model v1.0 are frozen. Backend architecture is adopted. WSL/Docker/Node/PostgreSQL/Redis/Mailpit/DBeaver/psql are ready, Authentication migrations 001–005 are applied and validated, and the TypeScript/Express backend skeleton is ready. The `POST /api/v1/auth/register` implementation is code-complete and developer-validated with 30 passing tests plus typecheck/lint/format/build. Continue with real API execution through Postman, then PostgreSQL and Mailpit evidence.
+> Continue QA Commerce Lab from `mohamadalazzeh/commerce-testing-platform`. Authentication API Contract v1.0 and Authentication Data Model v1.0 are frozen. Backend architecture is adopted. WSL/Docker/Node/PostgreSQL/Redis/Mailpit/DBeaver/psql are ready, Authentication migrations 001–005 are applied and validated, and the TypeScript/Express backend skeleton is ready. The `POST /api/v1/auth/register` implementation is code-complete and developer-validated with 30 passing tests plus typecheck/lint/format/build. Continue with real API execution through Postman, then PostgreSQL and Mailpit evidence.
 
 ---
 
